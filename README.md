@@ -1,3 +1,5 @@
+# Expense Tracker App
+
 ## Description
 
 This was implement from a react-native tutorial
